@@ -1,0 +1,214 @@
+[
+  {
+    "id": "PREC-IT-001",
+    "case_title": "Maxopp Investment Ltd. v. Commissioner of Income Tax",
+    "citation": "[2018] 402 ITR 640 (SC) / 91 taxmann.com 460",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2018,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 14A", "Rule 8D"],
+    "subject": "Disallowance of expenditure incurred in relation to exempt dividend income - Dominant purpose test",
+    "department_position": "Any expenditure incurred in holding shares/investments that generate tax-exempt dividends must be apportioned and disallowed u/s 14A read with Rule 8D, irrespective of whether the shares are held for controlling interest or trading stock.",
+    "assessee_position": "Shares were held with the dominant intention of acquiring or retaining controlling interest in group companies, not for earning exempt dividends. Therefore, interest and administrative expenditure cannot be disallowed.",
+    "ratio_decidendi": "The Supreme Court rejected the 'dominant purpose test'. It held that proximate cause/nexus between the expenditure and the tax-exempt income is critical. Once exempt dividend is received on shares, Section 14A is triggered even if the primary purpose was controlling interest. However, in case of stock-in-trade held by dealers, only that part of expenditure apportionable to earning dividend is disallowable.",
+    "favorable_to": "Revenue",
+    "pro_revenue_score": 0.75,
+    "key_distinguishing_factors": [
+      "Whether shares are held as capital investment vs. stock-in-trade",
+      "Whether interest-free owned funds exceeded the investment amount at the time of investment"
+    ],
+    "applicable_states": ["All India"]
+  },
+  {
+    "id": "PREC-IT-002",
+    "case_title": "South Indian Bank Ltd. v. Commissioner of Income Tax",
+    "citation": "[2021] 438 ITR 1 (SC) / 130 taxmann.com 178",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2021,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 14A", "Rule 8D"],
+    "subject": "Presumption of investment from owned interest-free surplus funds over borrowed interest-bearing funds",
+    "department_position": "Proportionate interest expense must be disallowed u/s 14A and Rule 8D(2)(ii) because investments were made from a common mixed pool of funds containing both interest-bearing borrowings and equity/reserves.",
+    "assessee_position": "The assessee's own interest-free funds (share capital + reserves) significantly exceeded the quantum of tax-free investments. Thus, statutory presumption applies that investments were made out of interest-free funds.",
+    "ratio_decidendi": "If the assessee possesses its own interest-free funds which exceed the investments made in tax-free instruments, a firm presumption arises that investments were made out of interest-free funds and not out of borrowed funds. No proportionate interest disallowance u/s 14A can be sustained.",
+    "favorable_to": "Assessee",
+    "pro_revenue_score": 0.10,
+    "key_distinguishing_factors": [
+      "Assessee must prove that own interest-free funds (equity + reserves) were higher than investments",
+      "Must show cash flow / balance sheet position at the time of investment"
+    ],
+    "applicable_states": ["All India"]
+  },
+  {
+    "id": "PREC-IT-003",
+    "case_title": "Cheminvest Ltd. v. Commissioner of Income Tax",
+    "citation": "[2015] 378 ITR 33 (Delhi HC) / 61 taxmann.com 118",
+    "court": "Delhi High Court",
+    "hierarchy_level": "Jurisdictional High Court",
+    "year": 2015,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 14A", "Rule 8D"],
+    "subject": "No Section 14A disallowance if no exempt income was actually earned during the relevant financial year",
+    "department_position": "Section 14A disallowance applies whenever expenditure is incurred to hold investments capable of yielding exempt income in the future, regardless of whether dividend was received during the year.",
+    "assessee_position": "In the absence of any exempt income actually earned during the financial year, Section 14A cannot be invoked to create a notional disallowance.",
+    "ratio_decidendi": "Section 14A envisages that there should be actual receipt of exempt income during the year. If no exempt income was received or receivable during the assessment year, no disallowance of expenditure can be made u/s 14A. (Note: Consider legislative clarification by Finance Act 2022).",
+    "favorable_to": "Assessee",
+    "pro_revenue_score": 0.25,
+    "key_distinguishing_factors": [
+      "Assessment Year under consideration: Pre-AY 2022-23 vs. Post-AY 2022-23 (amendment by Finance Act 2022)",
+      "Actual exempt income earned was strictly zero"
+    ],
+    "applicable_states": ["Delhi", "Persuasive across India for pre-2022 years"]
+  },
+  {
+    "id": "PREC-IT-004",
+    "case_title": "Sony Ericsson Mobile Communications India P. Ltd. v. CIT",
+    "citation": "[2015] 374 ITR 118 (Delhi HC) / 55 taxmann.com 240",
+    "court": "Delhi High Court",
+    "hierarchy_level": "Jurisdictional High Court",
+    "year": 2015,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 92CA", "Section 92C"],
+    "subject": "Transfer Pricing benchmarking of Advertising, Marketing and Promotion (AMP) expenses - Bright Line Test",
+    "department_position": "Indian subsidiary incurred AMP expenditure disproportionately higher than comparable domestic companies, thereby developing brand value for the foreign parent (AE). Bright Line Test (BLT) must be applied to determine excess AMP as an international transaction.",
+    "assessee_position": "AMP expense is a domestic expense incurred wholly for Indian sales operations. There is no international transaction, no agreement or arrangement with the foreign AE to incur brand-building expenses, and the Bright Line Test has no statutory mandate under the Income Tax Act.",
+    "ratio_decidendi": "The Bright Line Test has no statutory basis under the Indian Income Tax Act. A marketing distribution entity can be evaluated by bundling distribution and AMP under TNMM if AMP is part of its core business operations. In the absence of an agreement, unilateral domestic spend cannot be presumed as brand building for foreign AE.",
+    "favorable_to": "Assessee",
+    "pro_revenue_score": 0.30,
+    "key_distinguishing_factors": [
+      "Existence of written contract/arrangement mandating brand promotion",
+      "Whether compensation model is pure distributor, manufacturer, or contract service provider",
+      "Whether economic benefits of AMP accrue to local entity via revenue growth"
+    ],
+    "applicable_states": ["Delhi", "Persuasive across India"]
+  },
+  {
+    "id": "PREC-IT-005",
+    "case_title": "Commissioner of Income Tax v. Smifs Securities Ltd.",
+    "citation": "[2012] 348 ITR 302 (SC) / 24 taxmann.com 222",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2012,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 32(1)(ii)"],
+    "subject": "Depreciation on Goodwill arising upon Amalgamation / Merger",
+    "department_position": "Goodwill arising on amalgamation is merely an accounting entry representing excess purchase consideration and is not an intangible asset eligible for depreciation under Section 32.",
+    "assessee_position": "Goodwill is an asset of a similar nature to patents, copyrights, trademarks, licenses, and franchises, and falls squarely within Section 32(1)(ii) as an intangible asset.",
+    "ratio_decidendi": "Goodwill of a business or profession is an intangible asset under Explanation 3 to Section 32(1), eligible for depreciation. (CRITICAL DD WARNING: Overruled prospectively by Finance Act 2021 with effect from AY 2021-22, disallowing goodwill depreciation).",
+    "favorable_to": "Assessee",
+    "pro_revenue_score": 0.20,
+    "key_distinguishing_factors": [
+      "Assessment Year: Pre-AY 2021-22 (Smifs applies, favorable) vs. AY 2021-22 onwards (statutory disallowance u/s 32)",
+      "Whether goodwill arose from amalgamation or slump sale"
+    ],
+    "applicable_states": ["All India"]
+  },
+  {
+    "id": "PREC-IT-006",
+    "case_title": "Checkmate Services P. Ltd. v. Commissioner of Income Tax",
+    "citation": "[2022] 448 ITR 518 (SC) / 143 taxmann.com 178",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2022,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 36(1)(va)", "Section 43B"],
+    "subject": "Disallowance of employee contribution to PF/ESI deposited after statutory due date under labor laws",
+    "department_position": "Section 43B relaxation (deposit before ITR filing due date) applies exclusively to employer's contribution. Employee contribution is held in trust u/s 2(24)(x) and must strictly be deposited on or before the due date specified in the respective PF/ESI Act.",
+    "assessee_position": "Section 43B overrides Section 36(1)(va). If the employee contribution is deposited before filing the return of income u/s 139(1), no disallowance should be made.",
+    "ratio_decidendi": "Supreme Court conclusively settled the dispute in favor of Revenue. Employee contributions to PF/ESI are held in fiduciary capacity by employer and do not constitute employer's own expense. If deposited after the PF/ESI Act due date, disallowance u/s 36(1)(va) is permanent and Section 43B does not save it. Contingent liability on this issue MUST crystallize into actual liability.",
+    "favorable_to": "Revenue",
+    "pro_revenue_score": 0.98,
+    "key_distinguishing_factors": [
+      "Deposit date vs. statutory PF/ESI due date (e.g. 15th of following month)",
+      "Strict liability under Supreme Court precedent: 100% crystallization probability"
+    ],
+    "applicable_states": ["All India"]
+  },
+  {
+    "id": "PREC-GST-001",
+    "case_title": "Suncraft Energy Pvt. Ltd. v. Assistant Commissioner of State Tax",
+    "citation": "[2023] 153 taxmann.com 482 (Calcutta HC) / MAT 1218 OF 2023",
+    "court": "Calcutta High Court",
+    "hierarchy_level": "Jurisdictional High Court",
+    "year": 2023,
+    "tax_type": "Indirect Tax (GST)",
+    "sections": ["Section 16(2)(c)", "Section 155"],
+    "subject": "Denial of Input Tax Credit (ITC) on recipient due to supplier's non-payment of tax / GSTR-2A mismatch",
+    "department_position": "ITC cannot be availed unless tax charged in respect of such supply has been actually paid to the Government u/s 16(2)(c). Where invoice is not reflected in GSTR-2A or supplier defaulted, recipient must reverse ITC with interest.",
+    "assessee_position": "Recipient has genuine tax invoice, received goods/services, and paid total consideration including tax through banking channels. Revenue cannot reverse recipient's ITC without first proceeding against and exhausting recovery actions against the defaulting supplier.",
+    "ratio_decidendi": "Before proceeding against the bona fide purchaser/recipient for reversal of ITC under Section 16(2)(c), the GST department must first take coercive action and recovery steps against the selling dealer. Reversal from buyer is an exceptional measure only when supplier is absconding or wound up.",
+    "favorable_to": "Assessee",
+    "pro_revenue_score": 0.25,
+    "key_distinguishing_factors": [
+      "Assessee possess valid tax invoice, e-way bill, and proof of banking payment",
+      "Department has not initiated or exhausted recovery proceedings against the supplier",
+      "Circular No. 183/15/2022-GST compliance for FY 2017-18 and 2018-19"
+    ],
+    "applicable_states": ["West Bengal", "Persuasive across India (affirmed by Supreme Court SLP dismissal)"]
+  },
+  {
+    "id": "PREC-GST-002",
+    "case_title": "Chief Commissioner of Central Goods and Service Tax v. Safari Retreats Pvt. Ltd.",
+    "citation": "[2024] 167 taxmann.com 100 (SC) / Civil Appeal No. 2948 of 2023",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2024,
+    "tax_type": "Indirect Tax (GST)",
+    "sections": ["Section 17(5)(d)"],
+    "subject": "Input Tax Credit eligibility on construction materials and services for commercial mall meant for renting",
+    "department_position": "Section 17(5)(d) explicitly blocks ITC on goods or services received by a taxable person for construction of an immovable property on his own account, even when used in the course or furtherance of business.",
+    "assessee_position": "The mall was constructed not for sale (which is exempt post-completion) but for letting out on lease/rent, which attracts 18% GST. Denying ITC breaks the seamless chain of credits and causes cascading of taxes.",
+    "ratio_decidendi": "Supreme Court ruled that whether an immovable property is constructed 'on his own account' must be determined on the facts of each case. If the construction is intended for leasing out where output GST is payable on rentals, Section 17(5)(d) must be given purposive interpretation. It read down Section 17(5)(d) to avoid breaking the credit chain where output is taxable.",
+    "favorable_to": "Assessee",
+    "pro_revenue_score": 0.35,
+    "key_distinguishing_factors": [
+      "Property is leased out generating regular taxable output GST on rentals vs. retained for personal use",
+      "Clear accounting segregation of civil structure vs plant & machinery"
+    ],
+    "applicable_states": ["All India"]
+  },
+  {
+    "id": "PREC-GST-003",
+    "case_title": "Union of India v. Bharti Airtel Ltd.",
+    "citation": "[2021] 131 taxmann.com 319 (SC) / [2021] 4 SCC 512",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2021,
+    "tax_type": "Indirect Tax (GST)",
+    "sections": ["Section 37", "Section 38", "Section 39", "Section 16(4)"],
+    "subject": "Unilateral rectification of Form GSTR-3B to claim omitted Input Tax Credit after statutory deadline",
+    "department_position": "Form GSTR-3B is a summary return. Any omission or incorrect particulars can only be corrected within the statutory window prescribed u/s 39(9). Unilateral reopening of returns creates administrative chaos.",
+    "assessee_position": "During the initial GST rollout, Form GSTR-2A/2 was not operational. Assessee was forced to discharge output liability in cash while eligible ITC remained unutilized due to portal glitches.",
+    "ratio_decidendi": "The Supreme Court held that taxpayers cannot be permitted to unilaterally rectify Form GSTR-3B beyond the statutory timeline provided in the GST Act, as the system relies on self-assessment. ITC cannot be claimed in perpetuity beyond the statutory limitation period under Section 16(4).",
+    "favorable_to": "Revenue",
+    "pro_revenue_score": 0.85,
+    "key_distinguishing_factors": [
+      "Claim filed beyond Section 16(4) deadline (due date of Sept / Nov return of subsequent FY)",
+      "System glitch proved via formal grievance portal vs general accounting oversight"
+    ],
+    "applicable_states": ["All India"]
+  },
+  {
+    "id": "PREC-IT-007",
+    "case_title": "Union of India v. Ashish Agarwal",
+    "citation": "[2022] 444 ITR 1 (SC) / 138 taxmann.com 64",
+    "court": "Supreme Court of India",
+    "hierarchy_level": "Supreme Court",
+    "year": 2022,
+    "tax_type": "Direct Tax",
+    "sections": ["Section 148", "Section 148A", "Finance Act 2021"],
+    "subject": "Validity of reassessment notices issued under old law between 1 April 2021 and 30 June 2021",
+    "department_position": "Taxation and Other Laws (Relaxation and Amendment of Certain Provisions) Act (TOLA) extended the limitation date for issuance of old Section 148 notices up to June 30, 2021.",
+    "assessee_position": "With effect from 1 April 2021, the Parliament substituted the entire reassessment scheme with Section 148A (mandating enquiry and show cause notice). Executive notifications under TOLA cannot override statutory amendments enacted by Parliament.",
+    "ratio_decidendi": "Exercising extraordinary powers under Article 142, the Supreme Court struck a balance: notices issued under old Section 148 were deemed to be show-cause notices under new Section 148A(b). Department was directed to provide material to assessees and allow two weeks to reply. However, reassessments for AYs barred by 3-year / 10-year limitation limits under new Sec 149 are invalid.",
+    "favorable_to": "Revenue",
+    "pro_revenue_score": 0.65,
+    "key_distinguishing_factors": [
+      "Assessment Year: AY 2013-14, 2014-15 vs later years (applicability of 3-year limitation without escaped income >= 50 Lakhs)",
+      "Strict compliance by AO with Section 148A(b) procedure and sanction u/s 151"
+    ],
+    "applicable_states": ["All India"]
+  }
+]
